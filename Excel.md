@@ -5,6 +5,6 @@
 https://www.youtube.com/watch?v=IqwraKXKaLE
 
 ## Pembulatan keratusan bilangan excel
-![image](https://user-images.githubusercontent.com/78794419/182287909-4d58de7e-b139-4f62-845d-f63f4ce62c58.png)
+![image](https://user-images.githubusercontent.com/78794419/182289415-df26631f-9c75-4fbd-9dd2-bce82b83eccf.png)
 
 https://www.youtube.com/watch?v=f9Y5mCwqbOM
