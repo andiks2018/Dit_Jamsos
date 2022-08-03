@@ -5,10 +5,12 @@
 
 ## Persiapan rekon data aset pusat di daerah dan pusat. 
 1. persiapan kegiatan fullboard.
-2. crosscek data daerah dengan BAST
-3. PIC tiap 5 regional untuk konfirmasi barang via telepon dengan daerah. 
-4. tindakan apa yang harus dilakukan terhadap barang dengan kondisi rusak berat
-5. persiapan apa yang harus disiapkan terkait penghapusan aset tahun 2023
-6. konfirmsi seperti apa, terkait komunikasi kita dengabn daerah?
-7. apakah akan ditarik kepusat ? atau barang sesuai arahan ibu, sudah melakukan koordinasi terlebih dahulu tinggal action kita turun kelapangan pada saat lelang.
+2. rundown akan seperti apa.
+3. pembagian tugas terkait kegiatan fullboard.
+4. crosscek data daerah dengan BAST
+5. PIC tiap 5 regional untuk konfirmasi barang via telepon dengan daerah. 
+6. tindakan apa yang harus dilakukan terhadap barang dengan kondisi rusak berat
+7. persiapan apa yang harus disiapkan terkait penghapusan aset tahun 2023
+8. konfirmsi seperti apa, terkait komunikasi kita dengabn daerah?
+9. apakah akan ditarik kepusat ? atau barang sesuai arahan ibu, sudah melakukan koordinasi terlebih dahulu tinggal action kita turun kelapangan pada saat lelang.
 > 
