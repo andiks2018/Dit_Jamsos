@@ -3,7 +3,8 @@
 ## Progress 15 permohonan penghapusan aset monev aset. 
 > buat surat persiapan untuk upload ke kpknl
 
-## Persiapan rekon data aset pusat di daerah dan pusat. 
+## Persiapan rekon data aset pusat di daerah dan pusat.
+> kertas putih
 1. persiapan kegiatan fullboard.
 2. rundown akan seperti apa.
 3. pembagian tugas terkait kegiatan fullboard.
